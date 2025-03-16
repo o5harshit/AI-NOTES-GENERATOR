@@ -1,6 +1,8 @@
 AI Notes Generator
 
-AI Notes Generator is a web application that allows users to generate AI-powered notes based on their input prompts. It uses the Gemini 2.0 API for AI-based text generation, Supabase for authentication and database management, and Tailwind CSS for modern and responsive UI styling.
+AI Notes Generator is a web application that allows users to generate AI-powered notes based on their input prompts. 
+It uses the Gemini 2.0 API for AI-based text generation, Supabase for authentication and database management, 
+and Tailwind CSS for modern and responsive UI styling.
 
 Features
 
@@ -34,12 +36,14 @@ Make sure you have the following installed:
 
 1) Clone the repository:
 git clone https://github.com/o5harshit/AI-NOTES-GENERATOR.git
-cd AI-NOTES-GENERATOR
+
 2) Install dependencies:
    npm install
-3) Create a .env file :
+   
+4) Create a .env file :
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_GEMINI_API_KEY=your_gemini_api_key
-4) Run Server :
+
+5) Run Server :
    npm run dev
