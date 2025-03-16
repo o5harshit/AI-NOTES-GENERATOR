@@ -18,7 +18,7 @@ Features
 
 3) AI Model: Gemini 2.0 API
 
-4) Hosting: Render
+4) Hosting: Vercel
 
 * Installation
 
