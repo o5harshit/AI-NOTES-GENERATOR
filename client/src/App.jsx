@@ -4,6 +4,7 @@ import { Auth } from "../Components/Auth";
 import { LogOut } from "lucide-react";
 import { CreateNote } from "../Components/CreateNote";
 
+
 function App() {
   const [session, setSession] = useState(null);
 
