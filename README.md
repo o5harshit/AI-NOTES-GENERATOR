@@ -41,9 +41,10 @@ git clone https://github.com/o5harshit/AI-NOTES-GENERATOR.git
    npm install
    
 4) Create a .env file :
+   
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_GEMINI_API_KEY=your_gemini_api_key
 
-5) Run Server :
+6) Run Server :
    npm run dev
