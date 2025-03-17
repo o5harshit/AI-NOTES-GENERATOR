@@ -9,6 +9,7 @@ Features
 ✅ AI-Powered Note Generation - Generate notes instantly using the Gemini 2.0 API.
 ✅ User Authentication - Secure authentication using Supabase Auth.
 ✅ Responsive UI - Styled with Tailwind CSS for a modern, mobile-friendly experience
+✅ Payment Gateway - Implemented the feature of payment where user have to pay after 10 prompts
 
 * Tech Stack
 
@@ -18,7 +19,9 @@ Features
 
 3) AI Model: Gemini 2.0 API
 
-4) Hosting: Vercel
+4) Payment Gateway : Paypal
+
+5) Hosting: Vercel
 
 * Installation
 
